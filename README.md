@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 코딩 모코코 🌱 
+### 🌱 코딩 모코코 🌱 
 
 <!--
 **KRDJK/KRDJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
